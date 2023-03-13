@@ -18,7 +18,7 @@ import static org.assertj.core.api.Assertions.*;
 
 @SpringBootTest
 @Transactional
-class OrderServiceTest {
+class  OrderServiceTest {
 
     @Autowired
     EntityManager em;
